@@ -1,2 +1,2 @@
 # Fishers_LDA
-Discriminant analysis on generated data and on the Ionosphere Dataset.
+We perform discriminant analys on data with categorical dependent variables and continuous and continuous independent variables. The first part labels generated data from two distributions with different means and covariance matrices; the second part classfies data from the Ionosphere Dataset.
